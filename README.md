@@ -8,8 +8,6 @@ Please do not inject any load while using the below websites.
 * http://blazedemo.com
 * http://newtours.demoaut.com/
 * http://stormhelp.saas.hp.com/TruClient/TruClientExamples/html/links.html
-* https://marketplace.saas.hpe.com/appdelivery/content/advantage-online-shopping-aos-adm-demo-application
-* https://marketplace.saas.hpe.com/appdelivery/content/web-tours-sample-application
 * https://demo.opencart.com/
 * https://community.dynatrace.com/community/display/DL/Demo+Applications+-+easyTravel
 * http://www.telerik.com/support/demos
@@ -28,8 +26,6 @@ Please do not inject any load while using the below websites.
 
 
 ## Web Services
-* http://www.webservicex.net/WS/wscatlist.aspx
 * https://www.w3schools.com/xml/tempconvert.asmx
-* http://www.thomas-bayer.com/axis2/services/BLZService?wsdl
 * https://developers.google.com/apis-explorer
 * https://developer.yahoo.com/everything.html
