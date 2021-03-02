@@ -22,6 +22,7 @@
 * https://grpcb.in/
 * https://httpbin.org/
 * https://reqres.in/
+* https://demostore.gatling.io/
 
 
 ## Web Services
