@@ -1,4 +1,4 @@
-# PerfDemo - Collection of demo websites to learn automation and performance
+# PerfDemo - Collection of demo web apps and services to learn automation and performance
 
 ## Web Apps
 * https://onlineboutique.dev/
@@ -19,6 +19,9 @@
 * https://www.zkoss.org/demo/external
 * https://github.com/jmeterbyexample/digital-toys-web-application
 * https://wpjobboard.net/demo/
+* https://grpcb.in/
+* https://httpbin.org/
+* https://reqres.in/
 
 
 ## Web Services
