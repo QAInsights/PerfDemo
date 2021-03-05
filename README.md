@@ -5,9 +5,9 @@ Please do not inject any load while using the below websites.
 ## Web Apps
 * https://onlineboutique.dev/
 * https://example.com
+* https://advantageonlineshopping.com/
 * http://blazedemo.com
 * http://newtours.demoaut.com/
-* http://stormhelp.saas.hp.com/TruClient/TruClientExamples/html/links.html
 * https://demo.opencart.com/
 * https://community.dynatrace.com/community/display/DL/Demo+Applications+-+easyTravel
 * http://www.telerik.com/support/demos
@@ -19,7 +19,6 @@ Please do not inject any load while using the below websites.
 * https://www.zkoss.org/demo/external
 * https://github.com/jmeterbyexample/digital-toys-web-application
 * https://wpjobboard.net/demo/
-* https://grpcb.in/
 * https://httpbin.org/
 * https://reqres.in/
 * https://demostore.gatling.io/
@@ -29,3 +28,6 @@ Please do not inject any load while using the below websites.
 * https://www.w3schools.com/xml/tempconvert.asmx
 * https://developers.google.com/apis-explorer
 * https://developer.yahoo.com/everything.html
+
+## gRPC
+* https://grpcb.in/
