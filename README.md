@@ -1,6 +1,8 @@
-# PerfDemo - Collection of demo web apps and services to learn automation and performance
+# PerfDemo
 
-Please do not inject any load while using the below websites.
+Collection of demo web apps and services to learn automation and performance. 
+
+> Please do not inject any load while using the below websites.
 
 ## Web Apps
 * https://onlineboutique.dev/
