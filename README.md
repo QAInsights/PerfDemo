@@ -6,6 +6,7 @@ Please do not inject any load while using the below websites.
 * https://onlineboutique.dev/
 * https://example.com
 * https://advantageonlineshopping.com/
+* https://demo.borland.com/
 * http://blazedemo.com
 * http://newtours.demoaut.com/
 * https://demo.opencart.com/
@@ -28,6 +29,7 @@ Please do not inject any load while using the below websites.
 * https://www.w3schools.com/xml/tempconvert.asmx
 * https://developers.google.com/apis-explorer
 * https://developer.yahoo.com/everything.html
+* https://demo.borland.com/
 
 ## gRPC
 * https://grpcb.in/
