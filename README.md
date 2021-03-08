@@ -4,7 +4,7 @@
 
 > 🛑 Please do not inject any load while using the below websites.
 
-## Web Apps
+## 🌐 Web Apps
 * https://onlineboutique.dev/
 * https://example.com
 * https://advantageonlineshopping.com/
@@ -27,11 +27,11 @@
 * https://demostore.gatling.io/
 
 
-## Web Services
+## 🔗 Web Services
 * https://www.w3schools.com/xml/tempconvert.asmx
 * https://developers.google.com/apis-explorer
 * https://developer.yahoo.com/everything.html
 * https://demo.borland.com/
 
-## gRPC
+## 🖥 gRPC
 * https://grpcb.in/
