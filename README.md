@@ -6,6 +6,7 @@
 
 ## 🌐 Web Apps
 * https://onlineboutique.dev/
+* https://www.demoblaze.com
 * https://example.com
 * https://advantageonlineshopping.com/
 * https://demo.borland.com/
