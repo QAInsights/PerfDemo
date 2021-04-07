@@ -42,3 +42,7 @@
 * http://www.mqtt-dashboard.com/
 * http://www.hivemq.com/demos/websocket-client/
 * https://test.mosquitto.org/
+
+## DIY (Deploy It Yourself)
+
+* https://microservices-demo.github.io/
