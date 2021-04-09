@@ -26,6 +26,7 @@
 * https://httpbin.org/
 * https://reqres.in/
 * https://demostore.gatling.io/
+* https://computer-database.gatling.io/computers
 
 
 ## 🔗 Web Services
