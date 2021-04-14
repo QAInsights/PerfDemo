@@ -17,7 +17,6 @@
 * http://www.telerik.com/support/demos
 * https://demos.qlik.com/qliksense
 * https://demos.qlik.com/qlikview
-* https://tomcat.apache.org/tomcat-6.0-doc/appdev/sample/
 * http://symfony-workflow-demo.herokuapp.com/
 * https://sapui5.hana.ondemand.com/demoapps.html
 * https://www.zkoss.org/demo/external
@@ -51,3 +50,5 @@
 
 * https://microservices-demo.github.io/
 * https://tomcat.apache.org/tomcat-7.0-doc/appdev/sample/
+* https://tomcat.apache.org/tomcat-6.0-doc/appdev/sample/
+
