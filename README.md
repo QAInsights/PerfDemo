@@ -50,3 +50,4 @@
 ## 🥯 DIY (Deploy It Yourself)
 
 * https://microservices-demo.github.io/
+* https://tomcat.apache.org/tomcat-7.0-doc/appdev/sample/
