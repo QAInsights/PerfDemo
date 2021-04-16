@@ -55,5 +55,5 @@
 
 ## 🔐 OAuth
 
-* https://www.oauth.com/playground/authorization-code.html
+* https://www.oauth.com/playground/
 
