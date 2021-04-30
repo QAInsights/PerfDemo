@@ -40,6 +40,9 @@
 ## 🖥 gRPC
 * https://grpcb.in/
 
+## 💹 GraphQL
+* https://beta.pokeapi.co/graphql/console/
+
 ## 📃 MQTT
 * http://tools.emqx.io/recent_connections
 * http://www.mqtt-dashboard.com/
