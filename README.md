@@ -62,3 +62,8 @@
 
 * https://www.oauth.com/playground/
 
+## 🎯 Mocking
+
+* https://designer.mocky.io
+* https://mockintosh.io
+
