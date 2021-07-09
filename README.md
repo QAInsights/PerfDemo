@@ -22,23 +22,21 @@
 * https://www.zkoss.org/demo/external
 * https://github.com/jmeterbyexample/digital-toys-web-application
 * https://wpjobboard.net/demo/
-* https://httpbin.org/
-* https://reqres.in/
 * https://demostore.gatling.io/
 * https://computer-database.gatling.io/computers
 
 ## 📐 APIs
 
 * https://rickandmortyapi.com/
-
-## 🧪 Test Data
-* https://mockaroo.com/
-
-## 🔗 Web Services
+* https://httpbin.org/
+* https://reqres.in/
 * https://www.w3schools.com/xml/tempconvert.asmx
 * https://developers.google.com/apis-explorer
 * https://developer.yahoo.com/everything.html
 * https://demo.borland.com/
+
+## 🧪 Test Data
+* https://mockaroo.com/
 
 ## 2️⃣ HTTP/2
 * https://http2.golang.org/gophertiles
@@ -61,7 +59,6 @@
 * https://tomcat.apache.org/tomcat-7.0-doc/appdev/sample/
 * https://tomcat.apache.org/tomcat-6.0-doc/appdev/sample/
 
-
 ## 🔐 OAuth
 
 * https://www.oauth.com/playground/
@@ -70,4 +67,3 @@
 
 * https://designer.mocky.io
 * https://mockintosh.io
-
