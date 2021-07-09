@@ -27,6 +27,10 @@
 * https://demostore.gatling.io/
 * https://computer-database.gatling.io/computers
 
+## 📐 APIs
+
+* https://rickandmortyapi.com/
+
 ## 🧪 Test Data
 * https://mockaroo.com/
 
