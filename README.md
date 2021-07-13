@@ -58,6 +58,7 @@
 * https://microservices-demo.github.io/
 * https://tomcat.apache.org/tomcat-7.0-doc/appdev/sample/
 * https://tomcat.apache.org/tomcat-6.0-doc/appdev/sample/
+* https://github.com/instana/robot-shop
 
 ## 🔐 OAuth
 
