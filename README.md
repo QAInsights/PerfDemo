@@ -37,6 +37,7 @@
 
 ## 🧪 Test Data
 * https://mockaroo.com/
+* https://github.com/benkeen/generatedata
 
 ## 2️⃣ HTTP/2
 * https://http2.golang.org/gophertiles
