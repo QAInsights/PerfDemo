@@ -4,6 +4,10 @@
 
 > 🛑 Please do not inject any load while using the below websites.
 
+## 🔢 Calculators
+* https://uptime.is
+* https://perftractor.xyz
+
 ## 🌐 Web Apps
 * https://onlineboutique.dev/
 * https://www.demoblaze.com
