@@ -9,6 +9,7 @@
 * https://perftractor.xyz
 
 ## 🌐 Web Apps
+* https://bank-of-anthos.xyz/
 * https://onlineboutique.dev/
 * https://www.demoblaze.com
 * https://example.com
@@ -64,6 +65,7 @@
 * https://tomcat.apache.org/tomcat-7.0-doc/appdev/sample/
 * https://tomcat.apache.org/tomcat-6.0-doc/appdev/sample/
 * https://github.com/instana/robot-shop
+* https://github.com/GoogleCloudPlatform/bank-of-anthos
 
 ## 🔐 OAuth
 
