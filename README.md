@@ -10,6 +10,7 @@
 
 ## 🌐 Web Apps
 * https://petclinic.ycrash.io/
+* https://spring-petclinic-community.herokuapp.com/
 * https://bank-of-anthos.xyz/
 * https://onlineboutique.dev/
 * https://www.demoblaze.com
