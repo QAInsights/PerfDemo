@@ -9,6 +9,7 @@
 * https://perftractor.xyz
 
 ## 🌐 Web Apps
+* https://petclinic.ycrash.io/
 * https://bank-of-anthos.xyz/
 * https://onlineboutique.dev/
 * https://www.demoblaze.com
