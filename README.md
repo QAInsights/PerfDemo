@@ -9,6 +9,7 @@
 * https://perftractor.xyz
 
 ## 🌐 Web Apps
+* http://ecommerce.test.k6.io/
 * https://petclinic.ycrash.io/
 * https://spring-petclinic-community.herokuapp.com/
 * https://bank-of-anthos.xyz/
