@@ -80,3 +80,9 @@
 
 * https://designer.mocky.io
 * https://mockintosh.io
+
+## 🔨 Utilities
+
+* https://loadium.com/postman-to-jmeter-converter/
+* https://converter.blazemeter.com/
+
