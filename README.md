@@ -9,6 +9,7 @@
 * https://perftractor.xyz
 
 ## 🌐 Web Apps
+* https://slothereum.cc/#/
 * http://ecommerce.test.k6.io/
 * https://petclinic.ycrash.io/
 * https://spring-petclinic-community.herokuapp.com/
@@ -69,6 +70,7 @@
 * https://tomcat.apache.org/tomcat-6.0-doc/appdev/sample/
 * https://github.com/instana/robot-shop
 * https://github.com/GoogleCloudPlatform/bank-of-anthos
+* https://github.com/loadster/slothereum
 
 ## 🔐 OAuth
 
