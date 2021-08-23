@@ -4,10 +4,6 @@
 
 > 🛑 Please do not inject any load while using the below websites.
 
-## 🔢 Calculators
-* https://uptime.is
-* https://perftractor.xyz
-
 ## 🌐 Web Apps
 * https://slothereum.cc/#/
 * http://ecommerce.test.k6.io/
@@ -86,3 +82,6 @@
 * https://loadium.com/postman-to-jmeter-converter/
 * https://converter.blazemeter.com/
 
+### 🔢 Calculators
+* https://uptime.is
+* https://perftractor.xyz
