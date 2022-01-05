@@ -39,6 +39,7 @@
 * https://developers.google.com/apis-explorer
 * https://developer.yahoo.com/everything.html
 * https://demo.borland.com/
+* https://www.advantageonlineshopping.com/api/docs/
 
 ## 🧪 Test Data
 * https://mockaroo.com/
