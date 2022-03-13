@@ -29,6 +29,7 @@
 * https://wpjobboard.net/demo/
 * https://demostore.gatling.io/
 * https://computer-database.gatling.io/computers
+* https://wordpress.loadtest.io
 
 ## 📐 APIs
 
