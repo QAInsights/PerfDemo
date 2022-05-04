@@ -41,6 +41,7 @@
 * https://developer.yahoo.com/everything.html
 * https://demo.borland.com/
 * https://www.advantageonlineshopping.com/api/docs/
+* https://deckofcardsapi.com/
 
 ## 🧪 Test Data
 * https://mockaroo.com/
